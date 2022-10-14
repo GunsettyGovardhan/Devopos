@@ -1,1 +1,1 @@
-/usr/bin/bash: line 1: wq: command not found
+ welcome                                                                                                                        /usr/bin/bash: line 1: wq: command not found
